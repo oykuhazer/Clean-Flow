@@ -1,0 +1,182 @@
+/* General */
+"app_name" = "Clean Flow";
+"ok" = "OK";
+"close" = "Close";
+"cancel" = "Cancel";
+"buy" = "Buy";
+"restore" = "Restore";
+
+/* Tab bar */
+"tab_home" = "Home";
+"tab_history" = "History";
+"tab_favorites" = "Favorites";
+"tab_discover" = "Discover";
+"tab_settings" = "Settings";
+
+/* Premium */
+"premium_title" = "Become a Master of Words";
+"premium_bullet1" = "Unlimited Creation";
+"premium_bullet1_sub" = "Create as many rhymes, quatrains and poems as you want without worrying about coins.";
+"premium_bullet2" = "Seamless Experience";
+"premium_bullet2_sub" = "Enjoy an ad-free and unrestricted creative process.";
+"premium_bullet3" = "Priority AI";
+"premium_bullet3_sub" = "Be the first to access the newest and most advanced writing models.";
+"premium_continue" = "Continue";
+"premium_yearly" = "Yearly Access";
+"premium_monthly" = "Monthly Access";
+"premium_free_trial_days" = "%d days free trial";
+
+/* Settings */
+"settings_title" = "Settings";
+"membership" = "Membership";
+"my_premium_service" = "My Premium Service";
+"membership_status_free" = "Membership Status: Free";
+"membership_status_pro" = "Membership Status: Pro";
+"restore_membership" = "Restore Membership";
+"already_premium_note" = "You are already a Premium member";
+"general_settings" = "General Settings";
+"set_language" = "Set Language";
+"clear_cache" = "Clear Cache";
+"support" = "Support";
+"encourage_us" = "Encourage Us";
+"contact_us" = "Contact Us";
+"account" = "Account";
+"delete_account" = "Delete Account";
+"legal" = "Legal";
+"privacy_policy" = "Privacy Policy";
+"terms_of_use" = "Terms of Use";
+"subscription_terms" = "Subscription Terms";
+"theme_selection" = "Theme";
+"about_the_app" = "About the App";
+"app_info" = "App Info";
+"rate_app" = "Rate App";
+"tell_friends" = "Tell Friends";
+
+/* Purchase success */
+"purchase_success_title" = "Purchase Successful!";
+"see_themes" = "See Themes";
+
+/* Coin / Shop */
+"coin_balance" = "Balance";
+"buy_coins" = "Buy Coins";
+"coins" = "Coins";
+"thank_you" = "Thank You";
+"coins_added" = "Coins have been added to your balance.";
+"coins_added_format" = "%d coins have been added to your balance.";
+
+/* Feedback */
+"send_feedback" = "Send Feedback";
+
+/* Custom Alert - 5 scenarios */
+"alert_premium_title" = "You're the Master of Words!";
+"alert_premium_message" = "Enjoy unlimited creation, ad-free experience, and the latest models. May your inspiration never run out!";
+"alert_premium_button" = "Awesome!";
+
+"alert_coin_success_title" = "Wallet Updated!";
+"alert_coin_success_message" = "The coins you purchased have been added to your account. Time to discover new rhymes and poems!";
+"alert_see_themes" = "See Themes";
+"alert_start_creating" = "Start Creating";
+
+"alert_theme_unlocked_title" = "New Look Ready!";
+"alert_theme_unlocked_message" = "You've added this special theme to your collection. Customize the app to match your style.";
+"alert_apply_now" = "Apply Now";
+
+"alert_feedback_title" = "Thank You!";
+"alert_feedback_message" = "Your feedback has been received. We will carefully review your ideas to make the app better for you.";
+
+"alert_insufficient_coins_title" = "Insufficient Coin Balance";
+"alert_insufficient_coins_message" = "You don't have enough coins for this action. Get coins now or go Premium to remove limits.";
+"alert_get_coins" = "Get Coins";
+"alert_review_premium" = "Review Premium";
+
+"alert_locked_theme_title" = "Theme Locked";
+"alert_locked_theme_message" = "This theme is locked. Explore our theme collection to unlock it.";
+
+"alert_rate_limit_title" = "Rate Limit Exceeded";
+"alert_rate_limit_message" = "You've sent too many requests. Please wait a few minutes and try again.";
+
+"alert_spam_limit_title" = "Please Wait";
+"alert_spam_limit_message" = "You've made too many requests in a row. Please wait one minute before trying again.";
+
+"alert_contact_success_title" = "Message Sent!";
+"alert_contact_success_message" = "Thank you for reaching out. We'll get back to you as soon as possible.";
+
+"alert_update_title" = "Update Available";
+"alert_update_message" = "A new version of Clean Flow is available. Update now to enjoy the latest features and improvements.";
+"alert_update_button" = "Update Now";
+"alert_later" = "Later";
+
+"generating" = "Generating...";
+"generation_error" = "An error occurred during generation. Please try again.";
+"type_your_message" = "Type your message...";
+"chat_welcome_message" = "Hello! I'm here to help you create %@. What would you like to create?";
+"select_type" = "Select Type";
+"what_to_create" = "What do you want to create?";
+"insufficient_coins_for_generation" = "You don't have enough coins for this operation. Please purchase coins or upgrade to Premium.";
+
+/* Favorites */
+"favorites" = "Favorites";
+"no_favorites_yet" = "No Favorites Yet";
+"no_favorites_subtitle" = "Let's create a poem, rhyme, or joke!";
+"create_now" = "Create Now";
+"select_all" = "Select All";
+"deselect_all" = "Deselect All";
+"edit" = "Edit";
+"done" = "Done";
+"delete" = "Delete";
+"copy" = "Copy";
+
+/* Onboarding */
+"onboarding_welcome" = "Welcome";
+"onboarding_app_description" = "Create beautiful poems, rhymes, jokes and more with the power of AI";
+"onboarding_select_language" = "Select your preferred language";
+"onboarding_ai_title" = "Create with AI";
+"onboarding_ai_subtitle" = "Let artificial intelligence help you create unique content";
+"onboarding_feature_poem" = "Beautiful Poems";
+"onboarding_feature_quatrain" = "Creative Quatrains";
+"onboarding_feature_joke" = "Funny Jokes";
+"onboarding_feature_rhyme" = "Catchy Rhymes";
+"onboarding_themes_title" = "Personalize Your Style";
+"onboarding_themes_subtitle" = "Choose from 8 unique themes to make the app truly yours";
+"onboarding_favorites_title" = "Save Your Favorites";
+"onboarding_favorites_subtitle" = "Keep your best creations organized and easily accessible";
+"onboarding_share_title" = "Share Your Creations";
+"onboarding_share_subtitle" = "Spread joy by sharing your poems, jokes, and rhymes with friends";
+"next_button" = "Next";
+"get_started" = "Get Started";
+
+/* Home Header */
+"home_hello" = "Hello, wordsmith!";
+"home_title" = "What will you create today?";
+"home_subtitle" = "Poems, rhymes or freestyle flows — your muse is ready.";
+
+/* Feedback */
+"feedback_title" = "Feedback";
+"feedback_placeholder" = "Write your thoughts...";
+"feedback_rating" = "Your Rating";
+"feedback_thank_you_title" = "Thank You!";
+"feedback_thank_you_message" = "Your feedback has been sent successfully. We appreciate your input!";
+
+/* Special Offer */
+"special_offer_title" = "Special Offer";
+"special_offer_subtitle" = "Unlock unlimited creative mode • Today only 40% OFF";
+
+/* Discover */
+"purchased" = "Purchased ✓";
+
+/* Creation Types */
+"creation_type_rhyme" = "Rhyme";
+"creation_type_poem" = "Poem";
+"creation_type_quatrain" = "Quatrain";
+"creation_type_joke" = "Joke";
+
+/* Purchase Errors */
+"purchase_error_title" = "Purchase Failed";
+"purchase_error_no_product" = "Product not available. Please try again later.";
+"purchase_error_verification" = "Purchase could not be verified. Please try again.";
+
+/* Privacy Policy Content */
+"privacy_policy_content" = "Privacy Policy for Clean Flow: AI Poem & Rhyme Up\n\nEffective Date: February 20, 2026\n\n1. Introduction\n\nAt Clean Flow: AI Poem & Rhyme Up, we are committed to protecting your privacy. This Privacy Policy describes how we handle information in our mobile application. By using Clean Flow, you consent to the data practices described in this policy.\n\n2. Information We Process\n\nUser Inputs:\nAny text prompts you enter (to generate poems, lyrics, or jokes) are processed via secure AI APIs to provide the service. We do not store these inputs on our own servers or use them to identify you personally.\n\nPurchases & Subscriptions:\nOur app offers \"Coins\" and \"Premium Subscriptions.\" All financial transactions are handled exclusively by Apple's In-App Purchase system. We do not have access to, nor do we store, your credit card or billing information.\n\nDevice Data:\nWe may collect non-identifiable technical data such as device type, system version, and language settings (e.g., Spanish, Chinese, Catalan) to ensure the app functions correctly in your region.\n\n3. Premium Subscriptions & EULA\n\nPayments:\nSubscription payments will be charged to your iTunes Account at confirmation of purchase.\n\nRenewal:\nSubscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.\n\nManagement:\nYou can manage or cancel your subscription at any time by going to your Account Settings on the App Store after purchase.\n\nEULA:\nBy using this app, you also agree to the Apple Standard Terminal User License Agreement (EULA).\n\n4. AI Ethics & Data Security\n\nWe use industry-standard encryption to protect data in transit. Your content is generated in real-time and is not used to create personalized advertising profiles.\n\n5. Data Retention\n\nSince Clean Flow does not require a mandatory user account (login), your settings and generated content are stored locally on your device. To delete all data, simply uninstall the application.\n\n6. Contact Information\n\nFor any questions or support requests, please contact us at:\ncleanflow.support@protonmail.com";
+
+/* Terms of Use Content */
+"terms_of_use_content" = "Terms of Use for Clean Flow: AI Poem & Rhyme Up\n\nEffective Date: February 20, 2026\n\n1. Acceptance of Terms\n\nBy downloading, installing, or using the Clean Flow mobile application, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please do not use the application.\n\n2. AI Content Generation & Usage\n\nService Description:\nClean Flow provides AI-powered tools to generate creative content such as poems, song lyrics, and jokes.\n\nUser Responsibility:\nYou are solely responsible for the prompts and inputs you provide. The generation of hate speech, illegal, or harmful content is strictly prohibited.\n\nOwnership:\nYou retain ownership of the creative outputs you generate. Clean Flow claims no rights over your original creations.\n\n3. In-App Purchases and Virtual Currency (Coins)\n\nVirtual Coins:\n\"Coins\" are a virtual currency used within the app to unlock specific AI generation features. They have no real-world monetary value and are non-refundable and non-transferable.\n\nTransactions:\nAll purchases are processed securely through the Apple App Store. Clean Flow does not store or manage your credit card information.\n\nRefund Policy:\nAll sales are final. Since transactions are managed by Apple, any refund requests must be directed to Apple Support.\n\n4. Premium Subscriptions\n\nBilling:\nSubscription payments will be charged to your iTunes Account at the confirmation of purchase.\n\nAuto-Renewal:\nYour subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current billing period.\n\nManagement:\nYou can manage or cancel your subscription at any time by accessing your Account Settings on the App Store after purchase.\n\nFree Trials:\nAny unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription to that publication, where applicable.\n\n5. Intellectual Property\n\nThe \"magic\" of Clean Flow—including its user interface (UI), design elements, logos, and underlying software—is the exclusive property of the app's developers and is protected by international copyright and trademark laws.\n\n6. Disclaimer of Warranties\n\nThe AI-generated content is provided on an \"as-is\" and \"as-available\" basis. While we strive for high-quality and \"magical\" results, we cannot guarantee the accuracy, reliability, or suitability of the content generated by the AI for any specific purpose.\n\n7. Changes to Terms\n\nWe reserve the right to update or modify these Terms of Use at any time. Your continued use of the app following any changes constitutes your acceptance of the new terms.\n\n8. Contact Information\n\nIf you have any questions or require legal support, please contact us at:\ncleanflow.support@protonmail.com";

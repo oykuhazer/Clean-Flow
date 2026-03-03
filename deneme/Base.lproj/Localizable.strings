@@ -1,0 +1,185 @@
+/* Base (English) */
+"app_name" = "Clean Flow";
+"ok" = "OK";
+"close" = "Close";
+"cancel" = "Cancel";
+"buy" = "Buy";
+"restore" = "Restore";
+
+/* Tab bar */
+"tab_home" = "Home";
+"tab_history" = "History";
+"tab_favorites" = "Favorites";
+"tab_discover" = "Discover";
+"tab_settings" = "Settings";
+
+/* Premium */
+"premium_title" = "Become a Master of Words";
+"premium_bullet1" = "Unlimited Creation";
+"premium_bullet1_sub" = "Create as many rhymes, quatrains and poems as you want without worrying about coins.";
+"premium_bullet2" = "Seamless Experience";
+"premium_bullet2_sub" = "Enjoy an ad-free and unrestricted creative process.";
+"premium_bullet3" = "Priority AI";
+"premium_bullet3_sub" = "Be the first to access the newest and most advanced writing models.";
+"premium_continue" = "Continue";
+"premium_yearly" = "Yearly Access";
+"premium_monthly" = "Monthly Access";
+"premium_free_trial_days" = "%d days free trial";
+
+/* Settings */
+"settings_title" = "Settings";
+"membership" = "Membership";
+"my_premium_service" = "My Premium Service";
+"membership_status_free" = "Membership Status: Free";
+"membership_status_pro" = "Membership Status: Pro";
+"restore_membership" = "Restore Membership";
+"already_premium_note" = "You are already a Premium member";
+"general_settings" = "General Settings";
+"set_language" = "Set Language";
+"clear_cache" = "Clear Cache";
+"support" = "Support";
+"encourage_us" = "Encourage Us";
+"contact_us" = "Contact Us";
+"account" = "Account";
+"delete_account" = "Delete Account";
+"legal" = "Legal";
+"privacy_policy" = "Privacy Policy";
+"terms_of_use" = "Terms of Use";
+"subscription_terms" = "Subscription Terms";
+"theme_selection" = "Theme";
+"about_the_app" = "About the App";
+"app_info" = "App Info";
+"rate_app" = "Rate App";
+"tell_friends" = "Tell Friends";
+
+/* Purchase success */
+"purchase_success_title" = "Purchase Successful!";
+"see_themes" = "See Themes";
+
+/* Coin / Shop */
+"coin_balance" = "Balance";
+"buy_coins" = "Buy Coins";
+"coins" = "Coins";
+"thank_you" = "Thank You";
+"coins_added" = "Coins have been added to your balance.";
+"coins_added_format" = "%d coins have been added to your balance.";
+
+/* Feedback */
+"send_feedback" = "Send Feedback";
+
+/* Custom Alert - 5 scenarios */
+"alert_premium_title" = "You're the Master of Words!";
+"alert_premium_message" = "Enjoy unlimited creation, ad-free experience, and the latest models. May your inspiration never run out!";
+"alert_premium_button" = "Awesome!";
+
+"alert_coin_success_title" = "Wallet Updated!";
+"alert_coin_success_message" = "The coins you purchased have been added to your account. Time to discover new rhymes and poems!";
+"alert_see_themes" = "See Themes";
+"alert_start_creating" = "Start Creating";
+
+"alert_theme_unlocked_title" = "New Look Ready!";
+"alert_theme_unlocked_message" = "You've added this special theme to your collection. Customize the app to match your style.";
+"alert_apply_now" = "Apply Now";
+
+"alert_feedback_title" = "Thank You!";
+"alert_feedback_message" = "Your feedback has been received. We will carefully review your ideas to make the app better for you.";
+
+"alert_insufficient_coins_title" = "Insufficient Coin Balance";
+"alert_insufficient_coins_message" = "You don't have enough coins for this action. Get coins now or go Premium to remove limits.";
+"alert_get_coins" = "Get Coins";
+"alert_review_premium" = "Review Premium";
+
+"alert_locked_theme_title" = "Theme Locked";
+"alert_locked_theme_message" = "This theme is locked. Explore our theme collection to unlock it.";
+
+"alert_rate_limit_title" = "Rate Limit Exceeded";
+"alert_rate_limit_message" = "You've sent too many requests. Please wait a few minutes and try again.";
+
+"alert_spam_limit_title" = "Please Wait";
+"alert_spam_limit_message" = "You've made too many requests in a row. Please wait one minute before trying again.";
+
+"alert_contact_success_title" = "Message Sent!";
+"alert_contact_success_message" = "Thank you for reaching out. We'll get back to you as soon as possible.";
+
+"generating" = "Generating...";
+"generation_error" = "An error occurred during generation. Please try again.";
+"type_your_message" = "Type your message...";
+"chat_welcome_message" = "Hello! I'm here to help you create %@. What would you like to create?";
+"select_type" = "Select Type";
+"what_to_create" = "What do you want to create?";
+"insufficient_coins_for_generation" = "You don't have enough coins for this operation. Please purchase coins or upgrade to Premium.";
+
+/* Favorites */
+"favorites" = "Favorites";
+"no_favorites_yet" = "No Favorites Yet";
+"no_favorites_subtitle" = "Let's create a poem, rhyme, or joke!";
+"create_now" = "Create Now";
+"select_all" = "Select All";
+"deselect_all" = "Deselect All";
+"edit" = "Edit";
+"done" = "Done";
+"delete" = "Delete";
+"copy" = "Copy";
+
+/* Onboarding */
+"onboarding_welcome" = "Welcome";
+"onboarding_app_description" = "Create beautiful poems, rhymes, jokes and more with the power of AI";
+"onboarding_select_language" = "Select your preferred language";
+"onboarding_ai_title" = "Create with AI";
+"onboarding_ai_subtitle" = "Let artificial intelligence help you create unique content";
+"onboarding_feature_poem" = "Beautiful Poems";
+"onboarding_feature_quatrain" = "Creative Quatrains";
+"onboarding_feature_joke" = "Funny Jokes";
+"onboarding_feature_rhyme" = "Catchy Rhymes";
+"onboarding_themes_title" = "Personalize Your Style";
+"onboarding_themes_subtitle" = "Choose from 8 unique themes to make the app truly yours";
+"onboarding_favorites_title" = "Save Your Favorites";
+"onboarding_favorites_subtitle" = "Keep your best creations organized and easily accessible";
+"onboarding_share_title" = "Share Your Creations";
+"onboarding_share_subtitle" = "Spread joy by sharing your poems, jokes, and rhymes with friends";
+"next_button" = "Next";
+"get_started" = "Get Started";
+
+/* Home Header */
+"home_hello" = "Hello, wordsmith!";
+"home_title" = "What will you create today?";
+"home_subtitle" = "Poems, rhymes or freestyle flows — your muse is ready.";
+
+/* Feedback */
+"feedback_title" = "Feedback";
+"feedback_placeholder" = "Write your thoughts...";
+"feedback_rating" = "Your Rating";
+"feedback_thank_you_title" = "Thank You!";
+"feedback_thank_you_message" = "Your feedback has been sent successfully. We appreciate your input!";
+
+/* Special Offer */
+"special_offer_title" = "Special Offer";
+"special_offer_subtitle" = "Unlock unlimited creative mode • Today only 40% OFF";
+
+/* Discover */
+"purchased" = "Purchased ✓";
+
+/* Creation Types */
+"creation_type_rhyme" = "Rhyme";
+"creation_type_poem" = "Poem";
+"creation_type_quatrain" = "Quatrain";
+"creation_type_joke" = "Joke";
+
+/* Onboarding */
+"onboarding_welcome" = "Welcome";
+"onboarding_app_description" = "Create beautiful poems, rhymes, jokes and more with the power of AI";
+"onboarding_select_language" = "Select your preferred language";
+"onboarding_ai_title" = "Create with AI";
+"onboarding_ai_subtitle" = "Let artificial intelligence help you create unique content";
+"onboarding_feature_poem" = "Beautiful Poems";
+"onboarding_feature_quatrain" = "Creative Quatrains";
+"onboarding_feature_joke" = "Funny Jokes";
+"onboarding_feature_rhyme" = "Catchy Rhymes";
+"onboarding_themes_title" = "Personalize Your Style";
+"onboarding_themes_subtitle" = "Choose from 8 unique themes to make the app truly yours";
+"onboarding_favorites_title" = "Save Your Favorites";
+"onboarding_favorites_subtitle" = "Keep your best creations organized and easily accessible";
+"onboarding_share_title" = "Share Your Creations";
+"onboarding_share_subtitle" = "Spread joy by sharing your poems, jokes, and rhymes with friends";
+"next_button" = "Next";
+"get_started" = "Get Started";

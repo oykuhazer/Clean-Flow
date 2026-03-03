@@ -1,0 +1,32 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Firebase
+GoogleService-Info.plist
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Secrets
+*.pem
+*.p12
+*.key

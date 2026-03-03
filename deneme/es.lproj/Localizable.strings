@@ -1,0 +1,181 @@
+"app_name" = "Clean Flow";
+"ok" = "OK";
+"close" = "Cerrar";
+"cancel" = "Cancelar";
+"buy" = "Comprar";
+"restore" = "Restablecer";
+
+/* Tab bar */
+"tab_home" = "Inicio";
+"tab_history" = "Historial";
+"tab_favorites" = "Favoritos";
+"tab_discover" = "Descubrir";
+"tab_settings" = "Ajustes";
+
+/* Premium */
+"premium_title" = "Sé el Maestro de las Palabras";
+"premium_bullet1" = "Creación Ilimitada";
+"premium_bullet1_sub" = "Crea tantas rimas, cuartetas y poemas como quieras sin preocuparte por las monedas.";
+"premium_bullet2" = "Experiencia Sin Interrupciones";
+"premium_bullet2_sub" = "Disfruta de un proceso creativo sin anuncios ni restricciones.";
+"premium_bullet3" = "IA Prioritaria";
+"premium_bullet3_sub" = "Sé el primero en acceder a los modelos de escritura más nuevos y avanzados.";
+"premium_continue" = "Continuar";
+"premium_yearly" = "Acceso Anual";
+"premium_monthly" = "Acceso Mensual";
+"premium_free_trial_days" = "%d días de prueba gratuita";
+
+/* Settings */
+"settings_title" = "Ajustes";
+"membership" = "Membresía";
+"my_premium_service" = "Mi Servicio Premium";
+"membership_status_free" = "Estado: Gratuito";
+"membership_status_pro" = "Estado: Pro";
+"restore_membership" = "Restablecer Membresía";
+"already_premium_note" = "Ya eres miembro Premium";
+"general_settings" = "Ajustes Generales";
+"set_language" = "Cambiar Idioma";
+"clear_cache" = "Limpiar Caché";
+"support" = "Soporte";
+"encourage_us" = "Apóyanos";
+"contact_us" = "Contáctanos";
+"account" = "Cuenta";
+"delete_account" = "Eliminar Cuenta";
+"legal" = "Legal";
+"privacy_policy" = "Política de Privacidad";
+"terms_of_use" = "Términos de Uso";
+"subscription_terms" = "Términos de Suscripción";
+"theme_selection" = "Tema";
+"about_the_app" = "Acerca de la App";
+"app_info" = "Info de la App";
+"rate_app" = "Calificar App";
+"tell_friends" = "Contar a Amigos";
+
+/* Purchase success */
+"purchase_success_title" = "¡Compra Exitosa!";
+"see_themes" = "Ver Temas";
+
+/* Coin / Shop */
+"coin_balance" = "Saldo";
+"buy_coins" = "Comprar Monedas";
+"coins" = "Monedas";
+"thank_you" = "Gracias";
+"coins_added" = "Se han añadido monedas a tu saldo.";
+"coins_added_format" = "Se han añadido %d monedas a tu saldo.";
+
+/* Feedback */
+"send_feedback" = "Enviar Comentarios";
+
+/* Custom Alert - 5 scenarios */
+"alert_premium_title" = "¡Eres el Maestro de las Palabras!";
+"alert_premium_message" = "Disfruta de creación ilimitada, experiencia sin anuncios y los últimos modelos. ¡Que tu inspiración nunca se agote!";
+"alert_premium_button" = "¡Genial!";
+
+"alert_coin_success_title" = "¡Monedero Actualizado!";
+"alert_coin_success_message" = "Las monedas compradas se han añadido a tu cuenta. ¡Es hora de descubrir nuevas rimas y poemas!";
+"alert_see_themes" = "Ver Temas";
+"alert_start_creating" = "Empezar a Crear";
+
+"alert_theme_unlocked_title" = "¡Nuevo Look Listo!";
+"alert_theme_unlocked_message" = "Has añadido este tema especial a tu colección. Personaliza la app a tu estilo.";
+"alert_apply_now" = "Aplicar Ahora";
+
+"alert_feedback_title" = "¡Gracias!";
+"alert_feedback_message" = "Hemos recibido tus comentarios. Revisaremos tus ideas cuidadosamente para mejorar la app para ti.";
+
+"alert_insufficient_coins_title" = "Saldo de Monedas Insuficiente";
+"alert_insufficient_coins_message" = "No tienes suficientes monedas para esta acción. Consigue monedas ahora o pásate a Premium para eliminar los límites.";
+"alert_get_coins" = "Conseguir Monedas";
+"alert_review_premium" = "Ver Premium";
+
+"alert_locked_theme_title" = "Tema Bloqueado";
+"alert_locked_theme_message" = "Este tema está bloqueado. Explora nuestra colección de temas para desbloquearlo.";
+
+"alert_rate_limit_title" = "Límite de Solicitudes Excedido";
+"alert_rate_limit_message" = "Has enviado demasiadas solicitudes. Por favor, espera unos minutos e inténtalo de nuevo.";
+
+"alert_spam_limit_title" = "Por Favor Espera";
+"alert_spam_limit_message" = "Has realizado demasiadas solicitudes seguidas. Por favor, espera un minuto antes de intentarlo de nuevo.";
+
+"alert_contact_success_title" = "¡Mensaje Enviado!";
+"alert_contact_success_message" = "Gracias por contactarnos. Te responderemos lo antes posible.";
+
+"alert_update_title" = "Actualización Disponible";
+"alert_update_message" = "Una nueva versión de Clean Flow está disponible. Actualiza ahora para disfrutar de las últimas funciones y mejoras.";
+"alert_update_button" = "Actualizar Ahora";
+"alert_later" = "Más Tarde";
+
+"generating" = "Generando...";
+"generation_error" = "Ocurrió un error durante la generación. Inténtalo de nuevo.";
+"type_your_message" = "Escribe tu mensaje...";
+"chat_welcome_message" = "¡Hola! Estoy aquí para ayudarte a crear %@. ¿Qué te gustaría crear?";
+"select_type" = "Seleccionar Tipo";
+"what_to_create" = "¿Qué quieres crear?";
+"insufficient_coins_for_generation" = "No tienes suficientes monedas para esta operación. Compra monedas o mejora a Premium.";
+
+/* Favorites */
+"favorites" = "Favoritos";
+"no_favorites_yet" = "Aún no hay favoritos";
+"no_favorites_subtitle" = "¡Vamos a crear un poema, rima o chiste!";
+"create_now" = "Crear Ahora";
+"select_all" = "Seleccionar Todo";
+"deselect_all" = "Deseleccionar Todo";
+"edit" = "Editar";
+"done" = "Listo";
+"delete" = "Eliminar";
+"copy" = "Copiar";
+
+/* Onboarding */
+"onboarding_welcome" = "Bienvenido";
+"onboarding_app_description" = "Crea hermosos poemas, rimas, chistes y más con el poder de la IA";
+"onboarding_select_language" = "Elige tu idioma preferido";
+"onboarding_ai_title" = "Crea con IA";
+"onboarding_ai_subtitle" = "Deja que la inteligencia artificial te ayude a crear contenido único";
+"onboarding_feature_poem" = "Poemas Hermosos";
+"onboarding_feature_quatrain" = "Cuartetas Creativas";
+"onboarding_feature_joke" = "Chistes Divertidos";
+"onboarding_feature_rhyme" = "Rimas Pegajosas";
+"onboarding_themes_title" = "Personaliza tu Estilo";
+"onboarding_themes_subtitle" = "Elige entre 8 temas únicos para hacer la app realmente tuya";
+"onboarding_favorites_title" = "Guarda tus Favoritos";
+"onboarding_favorites_subtitle" = "Mantén tus mejores creaciones organizadas y accesibles";
+"onboarding_share_title" = "Comparte tus Creaciones";
+"onboarding_share_subtitle" = "Difunde alegría compartiendo tus poemas, chistes y rimas con amigos";
+"next_button" = "Siguiente";
+"get_started" = "Empezar";
+
+/* Home Header */
+"home_hello" = "¡Hola, artesano de palabras!";
+"home_title" = "¿Qué crearás hoy?";
+"home_subtitle" = "Poemas, rimas o versos libres: tu musa está lista.";
+
+/* Feedback */
+"feedback_title" = "Comentarios";
+"feedback_placeholder" = "Escribe tus pensamientos...";
+"feedback_rating" = "Tu Calificación";
+"feedback_thank_you_title" = "¡Gracias!";
+"feedback_thank_you_message" = "Tus comentarios se han enviado con éxito. ¡Agradecemos tu aporte!";
+
+/* Special Offer */
+"special_offer_title" = "Oferta Especial";
+"special_offer_subtitle" = "Desbloquea el modo creativo ilimitado • Solo hoy 40% DTO";
+
+/* Discover */
+"purchased" = "Comprado ✓";
+
+/* Creation Types */
+"creation_type_rhyme" = "Rima";
+"creation_type_poem" = "Poema";
+"creation_type_quatrain" = "Cuarteta";
+"creation_type_joke" = "Chiste";
+
+/* Purchase Errors */
+"purchase_error_title" = "Compra fallida";
+"purchase_error_no_product" = "Producto no disponible. Por favor, inténtelo más tarde.";
+"purchase_error_verification" = "No se pudo verificar la compra. Por favor, inténtelo de nuevo.";
+
+/* Privacy Policy Content */
+"privacy_policy_content" = "Política de Privacidad de Clean Flow: AI Poem & Rhyme Up\n\nFecha de vigencia: 20 de febrero de 2026\n\n1. Introducción\n\nEn Clean Flow: AI Poem & Rhyme Up, estamos comprometidos con la protección de su privacidad. Esta Política de Privacidad describe cómo manejamos la información en nuestra aplicación móvil. Al usar Clean Flow, usted acepta las prácticas de datos descritas en esta política.\n\n2. Información que procesamos\n\nEntradas del usuario:\nCualquier texto que ingrese (para generar poemas, letras o chistes) se procesa a través de APIs de IA seguras para proporcionar el servicio. No almacenamos estas entradas en nuestros propios servidores ni las usamos para identificarlo personalmente.\n\nCompras y suscripciones:\nNuestra aplicación ofrece \"Monedas\" y \"Suscripciones Premium\". Todas las transacciones financieras son manejadas exclusivamente por el sistema de compras dentro de la aplicación de Apple. No tenemos acceso ni almacenamos su información de tarjeta de crédito o facturación.\n\nDatos del dispositivo:\nPodemos recopilar datos técnicos no identificables como tipo de dispositivo, versión del sistema y configuración de idioma para asegurar que la aplicación funcione correctamente en su región.\n\n3. Suscripciones Premium y EULA\n\nPagos:\nLos pagos de suscripción se cargarán a su cuenta de iTunes en la confirmación de la compra.\n\nRenovación:\nLas suscripciones se renuevan automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período actual.\n\nGestión:\nPuede administrar o cancelar su suscripción en cualquier momento yendo a la Configuración de su cuenta en la App Store después de la compra.\n\nEULA:\nAl usar esta aplicación, también acepta el Acuerdo de Licencia de Usuario Final Estándar de Apple (EULA).\n\n4. Ética de IA y seguridad de datos\n\nUsamos cifrado estándar de la industria para proteger los datos en tránsito. Su contenido se genera en tiempo real y no se utiliza para crear perfiles publicitarios personalizados.\n\n5. Retención de datos\n\nDado que Clean Flow no requiere una cuenta de usuario obligatoria (inicio de sesión), su configuración y contenido generado se almacenan localmente en su dispositivo. Para eliminar todos los datos, simplemente desinstale la aplicación.\n\n6. Información de contacto\n\nPara cualquier pregunta o solicitud de soporte, contáctenos en:\ncleanflow.support@protonmail.com";
+
+/* Terms of Use Content */
+"terms_of_use_content" = "Términos de Uso de Clean Flow: AI Poem & Rhyme Up\n\nFecha de vigencia: 20 de febrero de 2026\n\n1. Aceptación de los términos\n\nAl descargar, instalar o usar la aplicación móvil Clean Flow, usted acepta estar sujeto a estos Términos de Uso y nuestra Política de Privacidad. Si no está de acuerdo con estos términos, no use la aplicación.\n\n2. Generación de contenido de IA y uso\n\nDescripción del servicio:\nClean Flow proporciona herramientas impulsadas por IA para generar contenido creativo como poemas, letras de canciones y chistes.\n\nResponsabilidad del usuario:\nUsted es el único responsable de las indicaciones y entradas que proporciona. La generación de discurso de odio, contenido ilegal o dañino está estrictamente prohibida.\n\nPropiedad:\nUsted conserva la propiedad de las creaciones que genera. Clean Flow no reclama derechos sobre sus creaciones originales.\n\n3. Compras dentro de la aplicación y moneda virtual (Monedas)\n\nMonedas virtuales:\nLas \"Monedas\" son una moneda virtual utilizada dentro de la aplicación para desbloquear funciones específicas de generación de IA. No tienen valor monetario real y no son reembolsables ni transferibles.\n\nTransacciones:\nTodas las compras se procesan de forma segura a través de la App Store de Apple. Clean Flow no almacena ni administra su información de tarjeta de crédito.\n\nPolítica de reembolso:\nTodas las ventas son finales. Dado que las transacciones son administradas por Apple, cualquier solicitud de reembolso debe dirigirse al Soporte de Apple.\n\n4. Suscripciones Premium\n\nFacturación:\nLos pagos de suscripción se cargarán a su cuenta de iTunes en la confirmación de la compra.\n\nRenovación automática:\nSu suscripción se renovará automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período de facturación actual.\n\nGestión:\nPuede administrar o cancelar su suscripción en cualquier momento accediendo a la Configuración de su cuenta en la App Store después de la compra.\n\nPruebas gratuitas:\nCualquier parte no utilizada de un período de prueba gratuito se perderá cuando compre una suscripción, si corresponde.\n\n5. Propiedad intelectual\n\nLa \"magia\" de Clean Flow, incluida su interfaz de usuario (UI), elementos de diseño, logotipos y software subyacente, es propiedad exclusiva de los desarrolladores de la aplicación y está protegida por las leyes internacionales de derechos de autor y marcas registradas.\n\n6. Descargo de garantías\n\nEl contenido generado por IA se proporciona \"tal cual\" y \"según disponibilidad\". Si bien nos esforzamos por obtener resultados de alta calidad y \"mágicos\", no podemos garantizar la precisión, confiabilidad o idoneidad del contenido generado por la IA para ningún propósito específico.\n\n7. Cambios en los términos\n\nNos reservamos el derecho de actualizar o modificar estos Términos de Uso en cualquier momento. Su uso continuado de la aplicación después de cualquier cambio constituye su aceptación de los nuevos términos.\n\n8. Información de contacto\n\nSi tiene alguna pregunta o necesita soporte legal, contáctenos en:\ncleanflow.support@protonmail.com";

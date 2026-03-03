@@ -1,0 +1,173 @@
+/* General */
+"app_name" = "Clean Flow";
+"ok" = "确定";
+"close" = "关闭";
+"cancel" = "取消";
+"buy" = "购买";
+"restore" = "恢复购买";
+
+/* Tab bar */
+"tab_home" = "首页";
+"tab_history" = "历史";
+"tab_favorites" = "收藏";
+"tab_discover" = "发现";
+"tab_settings" = "设置";
+
+/* Premium screen */
+"premium_title" = "解锁无限创作";
+"premium_bullet1" = "无限 AI 生成";
+"premium_bullet1_sub" = "创作无限诗歌、押韵和笑话";
+"premium_bullet2" = "高级主题";
+"premium_bullet2_sub" = "使用独家设计个性化您的体验";
+"premium_bullet3" = "无广告体验";
+"premium_bullet3_sub" = "享受无干扰的创作流程";
+"premium_continue" = "继续";
+"premium_yearly" = "年度";
+"premium_weekly" = "每周";
+"premium_monthly" = "每月";
+"premium_best_value" = "最超值";
+"premium_free_trial" = "3 天免费试用";
+"premium_then_price" = "之后 %@/年";
+"premium_per_week" = "%@/周";
+"premium_per_month" = "%@/月";
+"premium_per_year" = "%@/年";
+"premium_restore" = "恢复购买";
+"premium_terms" = "使用条款";
+"premium_privacy" = "隐私政策";
+"my_premium_service" = "我的高级服务";
+
+/* Settings */
+"settings_title" = "设置";
+"membership" = "会员资格";
+"membership_status_free" = "免费用户";
+"membership_status_pro" = "高级用户";
+"restore_membership" = "恢复会员资格";
+"already_premium_note" = "您已经是高级会员。无需恢复。";
+"general_settings" = "通用";
+"set_language" = "设置语言";
+"clear_cache" = "清除缓存";
+"support" = "支持";
+"encourage_us" = "给我们评分";
+"contact_us" = "联系我们";
+"send_feedback" = "发送反馈";
+"legal" = "法律";
+"privacy_policy" = "隐私政策";
+"terms_of_use" = "使用条款";
+
+/* Coin system */
+"coin_balance" = "金币余额";
+"coins" = "金币";
+"get_coins" = "获取金币";
+"coin_shop" = "金币商店";
+"coin_package_small" = "小包";
+"coin_package_medium" = "中包";
+"coin_package_large" = "大包";
+
+/* Alerts */
+"alert_premium_activated_title" = "高级版已激活！";
+"alert_premium_activated_message" = "欢迎来到 Clean Flow 高级版！享受无限创作。";
+"alert_coin_purchase_title" = "购买成功！";
+"alert_coin_purchase_message" = "您的金币已添加到您的余额中。";
+"alert_start_creating" = "开始创作";
+"alert_theme_unlocked_title" = "主题已解锁！";
+"alert_theme_unlocked_message" = "您的新主题已准备就绪。立即应用？";
+"alert_apply_theme" = "应用主题";
+"alert_later" = "稍后";
+"alert_feedback_sent_title" = "反馈已发送！";
+"alert_feedback_sent_message" = "感谢您的反馈。我们重视您的意见！";
+"alert_insufficient_coins_title" = "金币不足";
+"alert_insufficient_coins_message" = "您没有足够的金币。获取更多金币或升级到高级版以获得无限访问权限。";
+"alert_get_coins" = "获取金币";
+"alert_review_premium" = "查看高级版";
+"alert_locked_theme_title" = "主题已锁定";
+"alert_locked_theme_message" = "此主题已锁定。探索我们的主题集合来解锁它。";
+"alert_see_themes" = "查看主题";
+"alert_rate_limit_title" = "请稍候";
+"alert_rate_limit_message" = "您发送消息太快了。请稍等片刻再试。";
+"alert_spam_limit_title" = "检测到垃圾信息";
+"alert_spam_limit_message" = "请避免发送重复或空消息。";
+"alert_contact_success_title" = "消息已发送！";
+"alert_contact_success_message" = "感谢您联系我们。我们会尽快回复您。";
+
+"alert_update_title" = "有新版本可用";
+"alert_update_message" = "Clean Flow 有新版本可用。立即更新以享受最新功能和改进。";
+"alert_update_button" = "立即更新";
+"alert_later" = "稍后";
+
+/* Chat */
+"type_your_message" = "输入您的消息...";
+"what_to_create" = "您想创作什么？";
+"generating" = "生成中...";
+
+/* Favorites */
+"favorites" = "收藏";
+"no_favorites_yet" = "暂无收藏";
+"no_favorites_subtitle" = "您喜欢的创作将出现在这里";
+"create_now" = "立即创作";
+"edit" = "编辑";
+"done" = "完成";
+"select_all" = "全选";
+"deselect_all" = "取消全选";
+"delete" = "删除";
+"delete_selected" = "删除所选";
+"items_selected" = "已选择 %d 项";
+
+/* Onboarding */
+"get_started" = "开始使用";
+"next_button" = "下一步";
+"onboarding_app_description" = "用 AI 释放您的创造力";
+"onboarding_welcome_title" = "欢迎来到 Clean Flow";
+"onboarding_welcome_subtitle" = "您的 AI 创意伙伴";
+"onboarding_feature1_title" = "AI 驱动的创作";
+"onboarding_feature1_subtitle" = "即时生成诗歌、押韵和笑话";
+"onboarding_feature2_title" = "个性化主题";
+"onboarding_feature2_subtitle" = "用精美的主题定制您的体验";
+"onboarding_feature3_title" = "保存您的收藏";
+"onboarding_feature3_subtitle" = "收藏并整理您最喜欢的创作";
+"onboarding_language_title" = "选择您的语言";
+"onboarding_language_subtitle" = "您可以稍后在设置中更改";
+
+/* Languages */
+"language_en" = "英语";
+"language_de" = "德语";
+"language_es" = "西班牙语";
+"language_pt" = "葡萄牙语";
+"language_fr" = "法语";
+"language_zh" = "中文";
+"language_ar" = "阿拉伯语";
+
+/* Home Header */
+"home_hello" = "你好，文字匠人！";
+"home_title" = "今天你想创作什么？";
+"home_subtitle" = "诗歌、押韵或自由流动——你的灵感已准备就绪。";
+
+/* Feedback */
+"feedback_title" = "反馈";
+"feedback_placeholder" = "写下您的想法...";
+"feedback_rating" = "你的评分";
+"feedback_thank_you_title" = "谢谢！";
+"feedback_thank_you_message" = "您的反馈已成功发送。感谢您的宝贵意见！";
+
+/* Special Offer */
+"special_offer_title" = "特别优惠";
+"special_offer_subtitle" = "开启无限创作模式 • 仅限今日 40% 优惠";
+
+/* Discover */
+"purchased" = "已购买 ✓";
+
+/* Creation Types */
+"creation_type_rhyme" = "押韵";
+"creation_type_poem" = "诗歌";
+"creation_type_quatrain" = "四行诗";
+"creation_type_joke" = "笑话";
+
+/* Purchase Errors */
+"purchase_error_title" = "购买失败";
+"purchase_error_no_product" = "产品不可用。请稍后再试。";
+"purchase_error_verification" = "无法验证购买。请重试。";
+
+/* Privacy Policy Content */
+"privacy_policy_content" = "Clean Flow: AI Poem & Rhyme Up 隐私政策\n\n生效日期：2026年2月20日\n\n1. 简介\n\n在 Clean Flow: AI Poem & Rhyme Up，我们致力于保护您的隐私。本隐私政策描述了我们如何在移动应用程序中处理信息。使用 Clean Flow，即表示您同意本政策中描述的数据做法。\n\n2. 我们处理的信息\n\n用户输入：\n您输入的任何文本（用于生成诗歌、歌词或笑话）都通过安全的 AI API 进行处理以提供服务。我们不会在自己的服务器上存储这些输入，也不会使用它们来识别您的个人身份。\n\n购买和订阅：\n我们的应用程序提供金币和高级订阅。所有金融交易均由 Apple 的应用内购买系统独家处理。我们无法访问也不会存储您的信用卡或账单信息。\n\n设备数据：\n我们可能会收集不可识别的技术数据，如设备类型、系统版本和语言设置，以确保应用程序在您所在地区正常运行。\n\n3. 高级订阅和最终用户许可协议\n\n付款：\n订阅付款将在确认购买时从您的 iTunes 账户中扣除。\n\n续订：\n除非在当前期限结束前至少 24 小时关闭自动续订，否则订阅将自动续订。\n\n管理：\n您可以在购买后随时通过 App Store 中的账户设置管理或取消订阅。\n\n最终用户许可协议：\n使用此应用程序，即表示您同意 Apple 标准最终用户许可协议 (EULA)。\n\n4. AI 伦理和数据安全\n\n我们使用行业标准加密来保护传输中的数据。您的内容是实时生成的，不会用于创建个性化广告档案。\n\n5. 数据保留\n\n由于 Clean Flow 不需要强制用户账户（登录），您的设置和生成的内容存储在您的设备本地。要删除所有数据，只需卸载应用程序即可。\n\n6. 联系信息\n\n如有任何问题或支持请求，请通过以下方式联系我们：\ncleanflow.support@protonmail.com";
+
+/* Terms of Use Content */
+"terms_of_use_content" = "Clean Flow: AI Poem & Rhyme Up 使用条款\n\n生效日期：2026年2月20日\n\n1. 接受条款\n\n下载、安装或使用 Clean Flow 移动应用程序，即表示您同意受这些使用条款和我们的隐私政策的约束。如果您不同意这些条款，请不要使用该应用程序。\n\n2. AI 内容生成和使用\n\n服务描述：\nClean Flow 提供 AI 驱动的工具来生成创意内容，如诗歌、歌词和笑话。\n\n用户责任：\n您对您提供的提示和输入承担全部责任。严禁生成仇恨言论、非法或有害内容。\n\n所有权：\n您保留对您生成的创意作品的所有权。Clean Flow 不对您的原创作品主张任何权利。\n\n3. 应用内购买和虚拟货币（金币）\n\n虚拟金币：\n金币是应用程序内使用的虚拟货币，用于解锁特定的 AI 生成功能。它们没有真实的货币价值，不可退款且不可转让。\n\n交易：\n所有购买均通过 Apple App Store 安全处理。Clean Flow 不存储或管理您的信用卡信息。\n\n退款政策：\n所有销售均为最终销售。由于交易由 Apple 管理，任何退款请求必须直接向 Apple 支持提出。\n\n4. 高级订阅\n\n计费：\n订阅付款将在确认购买时从您的 iTunes 账户中扣除。\n\n自动续订：\n除非在当前计费期结束前至少 24 小时关闭自动续订，否则您的订阅将自动续订。\n\n管理：\n您可以在购买后随时通过 App Store 中的账户设置管理或取消订阅。\n\n免费试用：\n如果提供免费试用期，当您购买订阅时，任何未使用的免费试用部分将被没收（如适用）。\n\n5. 知识产权\n\nClean Flow 的魔力——包括其用户界面 (UI)、设计元素、徽标和底层软件——是应用程序开发者的专有财产，受国际版权和商标法保护。\n\n6. 免责声明\n\nAI 生成的内容按原样和可用的基础提供。虽然我们努力获得高质量和神奇的结果，但我们不能保证 AI 生成的内容对任何特定目的的准确性、可靠性或适用性。\n\n7. 条款变更\n\n我们保留随时更新或修改这些使用条款的权利。您在任何更改后继续使用该应用程序即表示您接受新条款。\n\n8. 联系信息\n\n如果您有任何问题或需要法律支持，请通过以下方式联系我们：\ncleanflow.support@protonmail.com";

@@ -1,0 +1,181 @@
+"app_name" = "Clean Flow";
+"ok" = "OK";
+"close" = "Schließen";
+"cancel" = "Abbrechen";
+"buy" = "Kaufen";
+"restore" = "Wiederherstellen";
+
+/* Tab bar */
+"tab_home" = "Start";
+"tab_history" = "Verlauf";
+"tab_favorites" = "Favoriten";
+"tab_discover" = "Entdecken";
+"tab_settings" = "Einstellungen";
+
+/* Premium */
+"premium_title" = "Werde zum Wortmeister";
+"premium_bullet1" = "Unbegrenzte Erstellung";
+"premium_bullet1_sub" = "Erstelle so viele Reime, Vierzeiler und Gedichte wie du möchtest, ohne dir Gedanken über Coins zu machen.";
+"premium_bullet2" = "Nahtloses Erlebnis";
+"premium_bullet2_sub" = "Genieße einen werbefreien und uneingeschränkten kreativen Prozess.";
+"premium_bullet3" = "Priorisierter KI-Zugriff";
+"premium_bullet3_sub" = "Greife als Erster auf die neuesten und fortschrittlichsten Schreibmodelle zu.";
+"premium_continue" = "Weiter";
+"premium_yearly" = "Jährlicher Zugang";
+"premium_monthly" = "Monatlicher Zugang";
+"premium_free_trial_days" = "%d Tage kostenlos testen";
+
+/* Settings */
+"settings_title" = "Einstellungen";
+"membership" = "Mitgliedschaft";
+"my_premium_service" = "Mein Premium-Dienst";
+"membership_status_free" = "Mitgliedschaft: Kostenlos";
+"membership_status_pro" = "Mitgliedschaft: Pro";
+"restore_membership" = "Mitgliedschaft wiederherstellen";
+"already_premium_note" = "Du bist bereits Premium-Mitglied";
+"general_settings" = "Allgemeine Einstellungen";
+"set_language" = "Sprache festlegen";
+"clear_cache" = "Cache leeren";
+"support" = "Support";
+"encourage_us" = "Unterstütze uns";
+"contact_us" = "Kontaktiere uns";
+"account" = "Konto";
+"delete_account" = "Konto löschen";
+"legal" = "Rechtliches";
+"privacy_policy" = "Datenschutzerklärung";
+"terms_of_use" = "Nutzungsbedingungen";
+"subscription_terms" = "Abonnementbedingungen";
+"theme_selection" = "Design";
+"about_the_app" = "Über die App";
+"app_info" = "App-Info";
+"rate_app" = "App bewerten";
+"tell_friends" = "Freunden erzählen";
+
+/* Purchase success */
+"purchase_success_title" = "Kauf erfolgreich!";
+"see_themes" = "Designs ansehen";
+
+/* Coin / Shop */
+"coin_balance" = "Guthaben";
+"buy_coins" = "Coins kaufen";
+"coins" = "Coins";
+"thank_you" = "Vielen Dank";
+"coins_added" = "Coins wurden deinem Guthaben hinzugefügt.";
+"coins_added_format" = "%d Coins wurden deinem Guthaben hinzugefügt.";
+
+/* Feedback */
+"send_feedback" = "Feedback senden";
+
+/* Custom Alert - 5 scenarios */
+"alert_premium_title" = "Du bist der Wortmeister!";
+"alert_premium_message" = "Genieße unbegrenzte Erstellung, werbefreies Erleben und die neuesten Modelle. Möge deine Inspiration niemals versiegen!";
+"alert_premium_button" = "Genial!";
+
+"alert_coin_success_title" = "Guthaben aktualisiert!";
+"alert_coin_success_message" = "Die gekauften Coins wurden deinem Konto hinzugefügt. Zeit, neue Reime und Gedichte zu entdecken!";
+"alert_see_themes" = "Designs ansehen";
+"alert_start_creating" = "Jetzt erstellen";
+
+"alert_theme_unlocked_title" = "Neuer Look bereit!";
+"alert_theme_unlocked_message" = "Du hast dieses spezielle Design deiner Sammlung hinzugefügt. Passe die App deinem Stil an.";
+"alert_apply_now" = "Jetzt anwenden";
+
+"alert_feedback_title" = "Vielen Dank!";
+"alert_feedback_message" = "Dein Feedback ist bei uns eingegangen. Wir werden deine Ideen sorgfältig prüfen, um die App für dich zu verbessern.";
+
+"alert_insufficient_coins_title" = "Unzureichendes Coin-Guthaben";
+"alert_insufficient_coins_message" = "Du hast nicht genug Coins für diese Aktion. Hol dir jetzt Coins oder werde Premium, um alle Limits aufzuheben.";
+"alert_get_coins" = "Coins holen";
+"alert_review_premium" = "Premium ansehen";
+
+"alert_locked_theme_title" = "Design gesperrt";
+"alert_locked_theme_message" = "Dieses Design ist gesperrt. Erkunde unsere Design-Kollektion, um es freizuschalten.";
+
+"alert_rate_limit_title" = "Anfragelimit überschritten";
+"alert_rate_limit_message" = "Du hast zu viele Anfragen gesendet. Bitte warte ein paar Minuten und versuche es erneut.";
+
+"alert_spam_limit_title" = "Bitte warten";
+"alert_spam_limit_message" = "Du hast zu viele Anfragen hintereinander gestellt. Bitte warte eine Minute, bevor du es erneut versuchst.";
+
+"alert_contact_success_title" = "Nachricht gesendet!";
+"alert_contact_success_message" = "Vielen Dank für deine Nachricht. Wir werden uns so schnell wie möglich bei dir melden.";
+
+"alert_update_title" = "Update verfügbar";
+"alert_update_message" = "Eine neue Version von Clean Flow ist verfügbar. Aktualisiere jetzt, um die neuesten Funktionen und Verbesserungen zu genießen.";
+"alert_update_button" = "Jetzt aktualisieren";
+"alert_later" = "Später";
+
+"generating" = "Wird generiert...";
+"generation_error" = "Bei der Generierung ist ein Fehler aufgetreten. Bitte versuche es erneut.";
+"type_your_message" = "Schreibe deine Nachricht...";
+"chat_welcome_message" = "Hallo! Ich bin hier, um dir beim Erstellen von %@ zu helfen. Was möchtest du erstellen?";
+"select_type" = "Typ auswählen";
+"what_to_create" = "Was möchtest du erstellen?";
+"insufficient_coins_for_generation" = "Du hast nicht genug Coins für diesen Vorgang. Bitte kaufe Coins oder upgrade auf Premium.";
+
+/* Favorites */
+"favorites" = "Favoriten";
+"no_favorites_yet" = "Noch keine Favoriten";
+"no_favorites_subtitle" = "Erstelle jetzt ein Gedicht, einen Reim oder einen Witz!";
+"create_now" = "Jetzt erstellen";
+"select_all" = "Alle auswählen";
+"deselect_all" = "Auswahl aufheben";
+"edit" = "Bearbeiten";
+"done" = "Fertig";
+"delete" = "Löschen";
+"copy" = "Kopieren";
+
+/* Onboarding */
+"onboarding_welcome" = "Willkommen";
+"onboarding_app_description" = "Erstelle wunderschöne Gedichte, Reime, Witze und mehr mit der Kraft der KI";
+"onboarding_select_language" = "Wähle deine bevorzugte Sprache";
+"onboarding_ai_title" = "Erstellen mit KI";
+"onboarding_ai_subtitle" = "Lass dich von künstlicher Intelligenz bei der Erstellung einzigartiger Inhalte unterstützen";
+"onboarding_feature_poem" = "Schöne Gedichte";
+"onboarding_feature_quatrain" = "Kreative Vierzeiler";
+"onboarding_feature_joke" = "Lustige Witze";
+"onboarding_feature_rhyme" = "Eingängige Reime";
+"onboarding_themes_title" = "Personalisiere deinen Stil";
+"onboarding_themes_subtitle" = "Wähle aus 8 einzigartigen Designs, um die App zu deiner eigenen zu machen";
+"onboarding_favorites_title" = "Favoriten speichern";
+"onboarding_favorites_subtitle" = "Behalte deine besten Kreationen organisiert und leicht zugänglich";
+"onboarding_share_title" = "Teile deine Kreationen";
+"onboarding_share_subtitle" = "Verbreite Freude, indem du deine Gedichte, Witze und Reime mit Freunden teilst";
+"next_button" = "Weiter";
+"get_started" = "Loslegen";
+
+/* Home Header */
+"home_hello" = "Hallo, Wortakrobat!";
+"home_title" = "Was wirst du heute erschaffen?";
+"home_subtitle" = "Gedichte, Reime oder Freestyle – deine Muse ist bereit.";
+
+/* Feedback */
+"feedback_title" = "Feedback";
+"feedback_placeholder" = "Schreibe deine Gedanken...";
+"feedback_rating" = "Deine Bewertung";
+"feedback_thank_you_title" = "Vielen Dank!";
+"feedback_thank_you_message" = "Dein Feedback wurde erfolgreich gesendet. Wir schätzen deine Meinung!";
+
+/* Special Offer */
+"special_offer_title" = "Sonderangebot";
+"special_offer_subtitle" = "Unbegrenzten Kreativmodus freischalten • Nur heute 40% RABATT";
+
+/* Discover */
+"purchased" = "Gekauft ✓";
+
+/* Creation Types */
+"creation_type_rhyme" = "Reim";
+"creation_type_poem" = "Gedicht";
+"creation_type_quatrain" = "Vierzeiler";
+"creation_type_joke" = "Witz";
+
+/* Purchase Errors */
+"purchase_error_title" = "Kauf fehlgeschlagen";
+"purchase_error_no_product" = "Produkt nicht verfügbar. Bitte versuchen Sie es später erneut.";
+"purchase_error_verification" = "Kauf konnte nicht verifiziert werden. Bitte versuchen Sie es erneut.";
+
+/* Privacy Policy Content */
+"privacy_policy_content" = "Datenschutzrichtlinie für Clean Flow: AI Poem & Rhyme Up\n\nGültig ab: 20. Februar 2026\n\n1. Einleitung\n\nBei Clean Flow: AI Poem & Rhyme Up sind wir dem Schutz Ihrer Privatsphäre verpflichtet. Diese Datenschutzrichtlinie beschreibt, wie wir Informationen in unserer mobilen Anwendung verarbeiten. Durch die Nutzung von Clean Flow stimmen Sie den in dieser Richtlinie beschriebenen Datenpraktiken zu.\n\n2. Informationen, die wir verarbeiten\n\nBenutzereingaben:\nAlle Textaufforderungen, die Sie eingeben (um Gedichte, Liedtexte oder Witze zu generieren), werden über sichere KI-APIs verarbeitet, um den Dienst bereitzustellen. Wir speichern diese Eingaben nicht auf unseren eigenen Servern und verwenden sie nicht, um Sie persönlich zu identifizieren.\n\nKäufe & Abonnements:\nUnsere App bietet \"Münzen\" und \"Premium-Abonnements\" an. Alle Finanztransaktionen werden ausschließlich über das In-App-Kaufsystem von Apple abgewickelt. Wir haben keinen Zugang zu Ihren Kreditkarten- oder Rechnungsinformationen und speichern diese auch nicht.\n\nGerätedaten:\nWir können nicht identifizierbare technische Daten wie Gerätetyp, Systemversion und Spracheinstellungen erfassen, um sicherzustellen, dass die App in Ihrer Region korrekt funktioniert.\n\n3. Premium-Abonnements & EULA\n\nZahlungen:\nAbonnementzahlungen werden bei Kaufbestätigung Ihrem iTunes-Konto belastet.\n\nVerlängerung:\nAbonnements verlängern sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor Ende des aktuellen Zeitraums deaktiviert.\n\nVerwaltung:\nSie können Ihr Abonnement jederzeit verwalten oder kündigen, indem Sie nach dem Kauf zu Ihren Kontoeinstellungen im App Store gehen.\n\nEULA:\nDurch die Nutzung dieser App stimmen Sie auch der Apple Standard-Endbenutzer-Lizenzvereinbarung (EULA) zu.\n\n4. KI-Ethik & Datensicherheit\n\nWir verwenden branchenübliche Verschlüsselung, um Daten während der Übertragung zu schützen. Ihre Inhalte werden in Echtzeit generiert und nicht zur Erstellung personalisierter Werbeprofile verwendet.\n\n5. Datenspeicherung\n\nDa Clean Flow kein obligatorisches Benutzerkonto (Login) erfordert, werden Ihre Einstellungen und generierten Inhalte lokal auf Ihrem Gerät gespeichert. Um alle Daten zu löschen, deinstallieren Sie einfach die Anwendung.\n\n6. Kontaktinformationen\n\nBei Fragen oder Supportanfragen kontaktieren Sie uns bitte unter:\ncleanflow.support@protonmail.com";
+
+/* Terms of Use Content */
+"terms_of_use_content" = "Nutzungsbedingungen für Clean Flow: AI Poem & Rhyme Up\n\nGültig ab: 20. Februar 2026\n\n1. Annahme der Bedingungen\n\nDurch das Herunterladen, Installieren oder Verwenden der Clean Flow-Mobilanwendung erklären Sie sich mit diesen Nutzungsbedingungen und unserer Datenschutzrichtlinie einverstanden. Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie die Anwendung bitte nicht.\n\n2. KI-Inhaltsgenerierung & Nutzung\n\nDienstbeschreibung:\nClean Flow bietet KI-gestützte Tools zur Generierung kreativer Inhalte wie Gedichte, Liedtexte und Witze.\n\nBenutzerverantwortung:\nSie sind allein verantwortlich für die Eingaben und Aufforderungen, die Sie bereitstellen. Die Generierung von Hassrede, illegalen oder schädlichen Inhalten ist strengstens verboten.\n\nEigentum:\nSie behalten das Eigentum an den von Ihnen generierten kreativen Ausgaben. Clean Flow erhebt keine Rechte an Ihren Originalkreationen.\n\n3. In-App-Käufe und virtuelle Währung (Münzen)\n\nVirtuelle Münzen:\n\"Münzen\" sind eine virtuelle Währung, die innerhalb der App verwendet wird, um bestimmte KI-Generierungsfunktionen freizuschalten. Sie haben keinen realen Geldwert und sind nicht erstattungsfähig und nicht übertragbar.\n\nTransaktionen:\nAlle Käufe werden sicher über den Apple App Store abgewickelt. Clean Flow speichert oder verwaltet Ihre Kreditkarteninformationen nicht.\n\nRückerstattungsrichtlinie:\nAlle Verkäufe sind endgültig. Da Transaktionen von Apple verwaltet werden, müssen Rückerstattungsanfragen an den Apple Support gerichtet werden.\n\n4. Premium-Abonnements\n\nAbrechnung:\nAbonnementzahlungen werden bei Kaufbestätigung Ihrem iTunes-Konto belastet.\n\nAutomatische Verlängerung:\nIhr Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor Ende des aktuellen Abrechnungszeitraums deaktiviert.\n\nVerwaltung:\nSie können Ihr Abonnement jederzeit verwalten oder kündigen, indem Sie nach dem Kauf auf Ihre Kontoeinstellungen im App Store zugreifen.\n\nKostenlose Testversionen:\nJeder ungenutzte Teil eines kostenlosen Testzeitraums verfällt, wenn Sie ein Abonnement für diese Publikation erwerben, sofern zutreffend.\n\n5. Geistiges Eigentum\n\nDie \"Magie\" von Clean Flow – einschließlich der Benutzeroberfläche (UI), Designelemente, Logos und der zugrunde liegenden Software – ist das ausschließliche Eigentum der App-Entwickler und durch internationale Urheber- und Markengesetze geschützt.\n\n6. Gewährleistungsausschluss\n\nDie KI-generierten Inhalte werden auf einer \"wie besehen\" und \"wie verfügbar\" Basis bereitgestellt. Obwohl wir nach qualitativ hochwertigen und \"magischen\" Ergebnissen streben, können wir die Genauigkeit, Zuverlässigkeit oder Eignung der von der KI generierten Inhalte für einen bestimmten Zweck nicht garantieren.\n\n7. Änderungen der Bedingungen\n\nWir behalten uns das Recht vor, diese Nutzungsbedingungen jederzeit zu aktualisieren oder zu ändern. Ihre fortgesetzte Nutzung der App nach Änderungen gilt als Annahme der neuen Bedingungen.\n\n8. Kontaktinformationen\n\nBei Fragen oder rechtlicher Unterstützung kontaktieren Sie uns bitte unter:\ncleanflow.support@protonmail.com";

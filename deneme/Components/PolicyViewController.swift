@@ -1,0 +1,205 @@
+
+
+import UIKit
+
+enum PolicyContent {
+    
+    static let privacy = """
+    Privacy Policy for Clean Flow: AI Poem & Rhyme Up
+    
+    Effective Date: February 20, 2026
+    
+    1. Introduction
+    
+    At Clean Flow: AI Poem & Rhyme Up, we are committed to protecting your privacy. This Privacy Policy describes how we handle information in our mobile application. By using Clean Flow, you consent to the data practices described in this policy.
+    
+    2. Information We Process
+    
+    User Inputs:
+    Any text prompts you enter (to generate poems, lyrics, or jokes) are processed via secure AI APIs to provide the service. We do not store these inputs on our own servers or use them to identify you personally.
+    
+    Purchases & Subscriptions:
+    Our app offers "Coins" and "Premium Subscriptions." All financial transactions are handled exclusively by Apple’s In-App Purchase system. We do not have access to, nor do we store, your credit card or billing information.
+    
+    Device Data:
+    We may collect non-identifiable technical data such as device type, system version, and language settings (e.g., Spanish, Chinese, Catalan) to ensure the app functions correctly in your region.
+    
+    3. Premium Subscriptions & EULA
+    
+    Payments:
+    Subscription payments will be charged to your iTunes Account at confirmation of purchase.
+    
+    Renewal:
+    Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
+    
+    Management:
+    You can manage or cancel your subscription at any time by going to your Account Settings on the App Store after purchase.
+    
+    EULA:
+    By using this app, you also agree to the Apple Standard Terminal User License Agreement (EULA).
+    
+    4. AI Ethics & Data Security
+    
+    We use industry-standard encryption to protect data in transit. Your content is generated in real-time and is not used to create personalized advertising profiles.
+    
+    5. Data Retention
+    
+    Since Clean Flow does not require a mandatory user account (login), your settings and generated content are stored locally on your device. To delete all data, simply uninstall the application.
+    
+    6. Contact Information
+    
+    For any questions or support requests, please contact us at:
+    cleanflow.support@protonmail.com
+    
+    """
+    
+    
+    static let terms = """
+    Terms of Use for Clean Flow: AI Poem & Rhyme Up
+    
+    Effective Date: February 20, 2026
+    
+    1. Acceptance of Terms
+    
+    By downloading, installing, or using the Clean Flow mobile application, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please do not use the application.
+    
+    2. AI Content Generation & Usage
+    
+    Service Description:
+    Clean Flow provides AI-powered tools to generate creative content such as poems, song lyrics, and jokes.
+    
+    User Responsibility:
+    You are solely responsible for the prompts and inputs you provide. The generation of hate speech, illegal, or harmful content is strictly prohibited.
+    
+    Ownership:
+    You retain ownership of the creative outputs you generate. Clean Flow claims no rights over your original creations.
+    
+    3. In-App Purchases and Virtual Currency (Coins)
+    
+    Virtual Coins:
+    "Coins" are a virtual currency used within the app to unlock specific AI generation features. They have no real-world monetary value and are non-refundable and non-transferable.
+    
+    Transactions:
+    All purchases are processed securely through the Apple App Store. Clean Flow does not store or manage your credit card information.
+    
+    Refund Policy:
+    All sales are final. Since transactions are managed by Apple, any refund requests must be directed to Apple Support.
+    
+    4. Premium Subscriptions
+    
+    Billing:
+    Subscription payments will be charged to your iTunes Account at the confirmation of purchase.
+    
+    Auto-Renewal:
+    Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current billing period.
+    
+    Management:
+    You can manage or cancel your subscription at any time by accessing your Account Settings on the App Store after purchase.
+    
+    Free Trials:
+    Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription to that publication, where applicable.
+    
+    5. Intellectual Property
+    
+    The "magic" of Clean Flow—including its user interface (UI), design elements, logos, and underlying software—is the exclusive property of the app's developers and is protected by international copyright and trademark laws.
+    
+    6. Disclaimer of Warranties
+    
+    The AI-generated content is provided on an "as-is" and "as-available" basis. While we strive for high-quality and "magical" results, we cannot guarantee the accuracy, reliability, or suitability of the content generated by the AI for any specific purpose.
+    
+    7. Changes to Terms
+    
+    We reserve the right to update or modify these Terms of Use at any time. Your continued use of the app following any changes constitutes your acceptance of the new terms.
+    
+    8. Contact Information
+    
+    If you have any questions or require legal support, please contact us at:
+    cleanflow.support@protonmail.com
+    
+    """
+}
+
+/// Gizlilik politikası veya kullanım koşulları gibi metin sayfalarını uygulama içinde gösterir.
+final class PolicyViewController: UIViewController {
+
+    enum PolicyType {
+        case privacy
+        case terms
+    }
+    
+    private let tabBarBottomInset: CGFloat = 88
+    private let scrollView = UIScrollView()
+    private let textLabel = UILabel()
+    private let policyType: PolicyType
+
+    init(type: PolicyType) {
+        self.policyType = type
+        super.init(nibName: nil, bundle: nil)
+        updateContent()
+    }
+
+    required init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+    
+    private func updateContent() {
+        switch policyType {
+        case .privacy:
+            self.title = L10n.privacyPolicy
+            textLabel.text = L10n.privacyPolicyContent
+        case .terms:
+            self.title = L10n.termsOfUse
+            textLabel.text = L10n.termsOfUseContent
+        }
+        navigationItem.title = self.title
+    }
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        navigationItem.title = title
+        view.backgroundColor = .clear
+        view.insertSubview(BackgroundGradientView(frame: view.bounds), at: 0)
+
+        scrollView.showsVerticalScrollIndicator = true
+        scrollView.translatesAutoresizingMaskIntoConstraints = false
+        scrollView.contentInset = UIEdgeInsets(top: 0, left: 0, bottom: tabBarBottomInset, right: 0)
+        scrollView.verticalScrollIndicatorInsets = UIEdgeInsets(top: 0, left: 0, bottom: tabBarBottomInset, right: 0)
+        
+        textLabel.numberOfLines = 0
+        textLabel.font = UIFont.systemFont(ofSize: 17, weight: .regular)
+        textLabel.textColor = UIColor.white.withAlphaComponent(0.9)
+        textLabel.translatesAutoresizingMaskIntoConstraints = false
+
+        view.addSubview(scrollView)
+        scrollView.addSubview(textLabel)
+
+        let safe = view.safeAreaLayoutGuide
+        NSLayoutConstraint.activate([
+            scrollView.topAnchor.constraint(equalTo: safe.topAnchor),
+            scrollView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
+            scrollView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
+            scrollView.bottomAnchor.constraint(equalTo: safe.bottomAnchor),
+
+            textLabel.topAnchor.constraint(equalTo: scrollView.contentLayoutGuide.topAnchor, constant: 20),
+            textLabel.leadingAnchor.constraint(equalTo: scrollView.contentLayoutGuide.leadingAnchor, constant: 20),
+            textLabel.trailingAnchor.constraint(equalTo: scrollView.contentLayoutGuide.trailingAnchor, constant: -20),
+            textLabel.bottomAnchor.constraint(equalTo: scrollView.contentLayoutGuide.bottomAnchor, constant: -24),
+            textLabel.widthAnchor.constraint(equalTo: scrollView.frameLayoutGuide.widthAnchor, constant: -40)
+        ])
+        
+        NotificationCenter.default.addObserver(self, selector: #selector(languageDidChange), name: .appLanguageDidChange, object: nil)
+    }
+    
+    deinit {
+        NotificationCenter.default.removeObserver(self)
+    }
+    
+    @objc private func languageDidChange() {
+        updateContent()
+    }
+
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        view.subviews.first?.frame = view.bounds
+    }
+}
